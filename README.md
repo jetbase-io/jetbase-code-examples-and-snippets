@@ -21,6 +21,7 @@ Includes:
 - CI/CD migration
 
 → Explore: [`/examples/cypress-to-playwright-migration`](./examples)
+
 → Full guide: [`Migrating Cypress Tests to Playwright with Copilot`](https://jetbase.io/blog/migrating-cypress-tests-to-playwright-with-copilot)
 
 ---
