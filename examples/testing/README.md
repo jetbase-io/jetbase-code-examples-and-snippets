@@ -22,6 +22,7 @@ Includes:
 - using Copilot to refactor and generate tests
 
 → Explore: [`/examples/testing/cypress-to-playwright-migration`](./cypress-to-playwright-migration)
+
 → Full guide: [`Migrating Cypress Tests to Playwright with Copilot`](https://jetbase.io/blog/migrating-cypress-tests-to-playwright-with-copilot)
 
 ---
