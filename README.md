@@ -71,11 +71,11 @@ Each section will include practical, real-world examples focused on production u
 
 ## 🤝 Need help ?
 
-If you're migrating from Cypress to Playwright or improving your test infrastructure:
+If you're working on test migration, backend systems, or complex integrations:
 
 → https://jetbase.io
 
-We help teams build, migrate, and scale production-grade systems and SaaS apps.
+We help teams design, build, migrate, and scale production-grade software systems - from testing infrastructure to full backend architecture.
 
 ---
 
