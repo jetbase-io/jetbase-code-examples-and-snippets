@@ -10,17 +10,17 @@ This repository is a curated collection of real-world engineering solutions used
 
 ### Cypress to Playwright Migration
 
-Real-world examples and patterns for migrating E2E tests from Cypress to Playwright with copilot.
+Side-by-side E2E test migration from Cypress to Playwright across login, inventory, and checkout flows.
 
 Includes:
 
-- test conversion patterns
-- selectors and locators
-- network mocking (intercept → route)
-- authentication and session handling
-- CI/CD migration
+- Page Object Model: singleton instances → class constructors with `Page` injection
+- Selectors: `cy.getByTestId()` → `page.getByTestId()`
+- Async model: Cypress command chains → `async/await`
+- PageManager pattern for centralizing page objects
+- Custom fixtures replacing `beforeEach` setup
 
-→ Explore: [`/examples/cypress-to-playwright-migration`](./examples)
+→ Explore: [`/examples/testing/cypress-to-playwright-migration`](./tree/development/examples/testing/cypress-to-playwright-migration)
 
 → Full guide: [`Migrating Cypress Tests to Playwright with Copilot`](https://jetbase.io/blog/migrating-cypress-tests-to-playwright-with-copilot)
 
