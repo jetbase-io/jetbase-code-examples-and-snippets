@@ -1,0 +1,24 @@
+{
+  "itemsNames": {
+    "backpackItemName": "Sauce Labs Backpack",
+    "bikeLight": "Sauce Labs Bike Light",
+    "tshirt": "Sauce Labs Bolt T-Shirt",
+    "fleeceJacket": "Sauce Labs Fleece Jacket"
+  },
+  "errorTexts": {
+    "loginErrorText": "Epic sadface: Username and password do not match any user in this service"
+  },
+  "checkoutInfo": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  },
+  "orderSummary": {
+    "paymentInfo": "SauceCard #31337",
+    "shippingInfo": "Free Pony Express Delivery!",
+    "subtotal": "$65.98",
+    "tax": "$5.28",
+    "total": "$71.26",
+    "orderCompletionText": "Thank you for your order!"
+  }
+}
