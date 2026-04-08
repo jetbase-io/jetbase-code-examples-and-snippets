@@ -20,7 +20,7 @@ Includes:
 - PageManager pattern for centralizing page objects
 - Custom fixtures replacing `beforeEach` setup
 
-→ Explore: [`/examples/testing/cypress-to-playwright-migration`](./tree/development/examples/testing/cypress-to-playwright-migration)
+→ Explore: [`/examples/testing/cypress-to-playwright-migration`](https://github.com/jetbase-io/jetbase-code-examples-and-snippets/tree/development/examples/testing/cypress-to-playwright-migration)
 
 → Full guide: [`Migrating Cypress Tests to Playwright with Copilot`](https://jetbase.io/blog/migrating-cypress-tests-to-playwright-with-copilot)
 
