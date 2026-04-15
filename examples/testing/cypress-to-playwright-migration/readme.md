@@ -1,7 +1,5 @@
 # Cypress to Playwright Migration Guide
 
-> **© Jetbase** — this repository is owned and maintained by [Jetbase](https://jetbase.io).
-
 A practical example of migrating an end-to-end test suite from Cypress to Playwright with the help of an AI coding agent (GitHub Copilot).
 
 ## Overview
@@ -29,3 +27,19 @@ playwright/
 4. Use the AI agent prompt: follow instructions in [migrate_tests.prompt.md](.github/prompts/migrate_tests.prompt.md)
 5. Migrate test files one by one, verifying output before committing
 6. Ensure every migrated file respects the established infrastructure
+
+---
+
+## 🤝 Need help with test migration?
+
+If you're migrating from Cypress to Playwright or improving your test infrastructure:
+
+→ https://jetbase.io
+
+We help teams modernize testing, reduce flakiness, and scale QA processes.
+
+---
+
+## About
+
+Maintained by [JetBase](https://jetbase.io).
